@@ -1,4 +1,4 @@
-A Python tool that evaluates password strength based onlength, character variety, and security best practices. Provides feedback to improve password quality.
+A Python tool that evaluates password strength based on length, character variety, and security best practices. Provides feedback to improve password quality.
 
 Technologies Used: Python, Regular Expressions (re library)
 
