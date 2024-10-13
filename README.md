@@ -8,5 +8,5 @@ Key Features:
 - Provides feedback on how to strengthen weak passwords.
 
 Future Improvements:
-- Adding a graphical user interface (GUI) to make the tool more user-friendly.
+- Adding a (GUI) to make the tool more user-friendly.
 - Integrating the checker with a database of breached passwords for better security.
