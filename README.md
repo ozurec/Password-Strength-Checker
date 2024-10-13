@@ -1,5 +1,7 @@
 A Python tool that evaluates password strength based onlength, character variety, and security best practices. Provides feedback to improve password quality.
+
 Technologies Used: Python, Regular Expressions (re library)
+
 Key Features:
 - Checks password length and variety (uppercase, lowercase, digits, special characters).
 - Prevents use of common passwords and repeated characters.
